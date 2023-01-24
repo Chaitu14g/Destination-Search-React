@@ -1,0 +1,29 @@
+.item_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 250px;
+  width: 200px;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 15px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+
+.para {
+  font-size: 15px;
+  color: #0f172a;
+  font-family: 'Open Sans';
+  align-self: flex-start;
+  font-weight: bold;
+}
